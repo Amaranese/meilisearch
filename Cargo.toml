@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "meilisearch-http",
+    "meilisearch-error",
+    "meilisearch-lib",
+    "meilisearch-auth",
+]
