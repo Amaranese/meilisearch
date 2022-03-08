@@ -1,4 +1,4 @@
-[build.env]
+[build.env] 
 passthrough = [
     "RUST_BACKTRACE",
     "CARGO_TERM_COLOR",
